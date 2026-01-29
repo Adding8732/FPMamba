@@ -5,7 +5,7 @@
 ## Update
 - 2026.01.29 	:Release the model and code
 
->Remote sensing images are often degraded by haze, leading to reduced contrast and visibility, which hinders downstream vision tasks. Traditional dehazing methods rely heavily on a priori knowledge, limiting their effectiveness in complex scenes. Recent deep learning approaches, particularly those based on convolutional neural networks (CNNs) and Transformers, have shown promise but are constrained by computational overhead and limited frequency domain utilization. Inspired by state space models (SSMs), we propose a Frequency-Prompted State Space Model (FPMamba) that integrates spatial and frequency domain features for effective dehazing. Our model introduces a Frequency-Decoupled Prompting Block to extract and modulate frequency components, guiding the dehazing process. Extensive experiments on publicly available datasets demonstrate that FPMamba outperforms several state-of-the-art methods, achieving superior dehazing performance with improved detail preservation and structural integrity.
+
 
 # Installation
 
