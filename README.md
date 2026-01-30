@@ -5,7 +5,7 @@
 ## Update
 - 2026.01.29 	:Release the model and code
 
-
+>Recently, deep learning methods have garnered extensive attention in the field of remote sensing image dehazing and achieved remarkable performance. However, most current dehazing approaches primarily focus on extracting features in the spatial domain, overlooking the key role of low- and high-frequency features in enhancing texture details and maintaining global structure, which limits further improvement in the image dehazing.
 
 # Installation
 
